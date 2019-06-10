@@ -11,6 +11,17 @@
   }
 }
 
+// Navbar text
+//
+//
+
+.navbar-text {
+  display: inline-block;
+  padding-top: $nav-link-padding-y;
+  padding-bottom: $nav-link-padding-y;
+  text-transform: uppercase;
+}
+
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
